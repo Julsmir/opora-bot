@@ -1,3 +1,7 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+
 import json
 import os
 import random
